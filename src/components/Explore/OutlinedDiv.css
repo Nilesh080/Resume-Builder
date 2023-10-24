@@ -1,0 +1,10 @@
+.outlined-box {
+    border: 2px solid #3498db; /* Change the color and width as needed */
+    border-radius: 10px; /* Add rounded corners */
+    padding: 20px; /* Add padding to the content inside the box */
+    background-color: #f0f0f0; /* Add a background color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+    /* Add any other styles you want */
+    margin-top: 10px;
+  }
+  

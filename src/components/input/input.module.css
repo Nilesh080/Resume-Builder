@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 100%;
+}
+
+.label{
+    font-weight: 500;
+    font-size: 1rem;
+
+}
+.input{
+    border : 1px solid #cccccc;
+    outline: none;
+    padding: 20px 22px;
+    font-size: 1rem;
+    border-radius: 5px;
+    /* padding: 20px; */
+
+}
+.input:hover{
+    border: 1px solid #adadad;
+}
+.input:active{
+    border: 1px solid #cbccf1;
+}
+.body{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

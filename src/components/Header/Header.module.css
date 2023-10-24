@@ -1,0 +1,35 @@
+.container{
+    padding:150px 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap :30px;
+    text-align: center;
+    background-color: #07063a;
+    min-height: 85vh;
+}
+ .heading{
+    margin :0 auto;
+    background-clip: text;
+    color: transparent;
+    font-size: 2rem;
+    font-weight: bold;
+    /* font-family: Prata; */
+    font-family: Josefin Sans;
+    color :white;
+    max-width: 45rem;
+    letter-spacing: 0.1rem;
+    line-height: 4rem;
+}
+.heading span{
+    background-clip: text;
+    background-image: linear-gradient(to right,#3382cc,#c9e0f6);
+    color: transparent;
+}
+.right img{
+    width :400px;
+}
+.body heading{
+    color:black ;
+}

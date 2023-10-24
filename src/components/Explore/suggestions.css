@@ -1,0 +1,22 @@
+.SkillSuggestions {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px #ccc;
+  }
+  
+  .SkillSuggestions h2 {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  
+  .SkillSuggestions ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .SkillSuggestions li {
+    margin: 5px 0;
+  }
+  
